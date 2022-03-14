@@ -8,14 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://francescopastore.github.io',
+  baseUrl: '/ctf-cheats/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'francescopastore', // Usually your GitHub org/user name.
   projectName: 'ctf-cheats', // Usually your repo name.
-  trailingSlash: false,
 
   presets: [
     [
