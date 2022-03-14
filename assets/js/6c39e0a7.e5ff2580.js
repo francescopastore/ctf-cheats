@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkb=self.webpackChunkb||[]).push([[152],{2350:function(a){a.exports=JSON.parse('{"allTagsPath":"/ctf-cheats/blog/tags","slug":"/ctf-cheats/blog/tags/facebook","name":"facebook","count":1,"permalink":"/ctf-cheats/blog/tags/facebook"}')}}]);
