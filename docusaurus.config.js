@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "CTF Cheats",
+  tagline: "A collection of tips & tricks about CTF",
   url: "https://francescopastore.github.io",
   baseUrl: "/ctf-cheats/",
   onBrokenLinks: "throw",

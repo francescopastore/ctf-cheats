@@ -4,31 +4,19 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '',
     Svg: require('@site/static/img/home/undraw_researching.svg').default,
-    description: (
-      <>
-        A collection of tips & tricks about CTF.
-      </>
-    ),
+    description: "",
   },
   {
-    title: 'Easy to Use',
+    title: '',
     Svg: require('@site/static/img/home/undraw_code_thinking.svg').default,
-    description: (
-      <>
-        A collection of tips & tricks about CTF.
-      </>
-    ),
+    description: "",
   },
   {
-    title: 'Easy to Use',
+    title: '',
     Svg: require('@site/static/img/home/undraw_hacker_mind.svg').default,
-    description: (
-      <>
-        A collection of tips & tricks about CTF.
-      </>
-    ),
+    description: "",
   },
 ];
 
