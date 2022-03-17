@@ -9,6 +9,12 @@ title: Assembly
 
 [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
 
+## Opcode and instruction reference
+
+[http://ref.x86asm.net/coder64.html](http://ref.x86asm.net/coder64.html)
+
+[http://ref.x86asm.net/coder32.html](http://ref.x86asm.net/coder64.html)
+
 ## Syscalls
 
 ### x32
