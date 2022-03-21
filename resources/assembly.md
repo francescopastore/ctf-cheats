@@ -11,6 +11,8 @@ title: Assembly
 
 ## Opcode and instruction reference
 
+[http://sparksandflames.com/files/x86InstructionChart.html](http://sparksandflames.com/files/x86InstructionChart.html)
+
 [http://ref.x86asm.net/coder64.html](http://ref.x86asm.net/coder64.html)
 
 [http://ref.x86asm.net/coder32.html](http://ref.x86asm.net/coder64.html)
@@ -25,9 +27,9 @@ title: Assembly
 
 ### x64
 
-[https://filippo.io/linux-syscall-table/](https://filippo.io/linux-syscall-table/)
-
 [https://syscalls.w3challs.com/?arch=x86_64](https://syscalls.w3challs.com/?arch=x86_64)
+
+[https://filippo.io/linux-syscall-table/](https://filippo.io/linux-syscall-table/)
 
 ### Misc
 

@@ -50,7 +50,7 @@ const config = {
             activeBaseRegex: `/docs/`,
           },
           {
-            to: '/resources/intro',  
+            to: '/resources/_intro',  
             label: 'Resources',
             position: 'left',
             activeBaseRegex: `/resources/`,
