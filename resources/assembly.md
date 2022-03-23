@@ -15,7 +15,7 @@ title: Assembly
 
 [http://ref.x86asm.net/coder64.html](http://ref.x86asm.net/coder64.html)
 
-[http://ref.x86asm.net/coder32.html](http://ref.x86asm.net/coder64.html)
+[http://ref.x86asm.net/coder32.html](http://ref.x86asm.net/coder32.html)
 
 ## Syscalls
 
