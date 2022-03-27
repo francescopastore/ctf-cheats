@@ -44,16 +44,22 @@ const config = {
         },
         items: [
           {
-            to: '/docs/intro',    
-            label: 'Docs',
-            position: 'left',
+            to: "/docs/intro",
+            label: "Docs",
+            position: "left",
             activeBaseRegex: `/docs/`,
           },
           {
-            to: '/resources/_intro',  
-            label: 'Resources',
-            position: 'left',
+            to: "/resources/intro",
+            label: "Resources",
+            position: "left",
             activeBaseRegex: `/resources/`,
+          },
+          {
+            to: "/osint/intro",
+            label: "OSINT",
+            position: "left",
+            activeBaseRegex: `/osint/`,
           },
           {
             href: "https://github.com/francescopastore/ctf-cheats",
@@ -80,8 +86,17 @@ const config = {
         path: "resources",
         routeBasePath: "resources",
         sidebarPath: require.resolve("./sidebars.js"),
-      },
+      }
     ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "osint",
+        path: "osint",
+        routeBasePath: "osint",
+        sidebarPath: require.resolve("./sidebars.js"),
+      }
+    ]
   ],
 };
 

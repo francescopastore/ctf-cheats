@@ -11,8 +11,8 @@ title: Assembly
 
 ## Opcode and instruction reference
 
-[http://sparksandflames.com/files/x86InstructionChart.html](http://sparksandflames.com/files/x86InstructionChart.html)
 A full table with all op codes and relative instructions for X86 32 bit.
+[http://sparksandflames.com/files/x86InstructionChart.html](http://sparksandflames.com/files/x86InstructionChart.html)
 
 [http://ref.x86asm.net/coder64.html](http://ref.x86asm.net/coder64.html)
 
@@ -34,8 +34,8 @@ A full table with all op codes and relative instructions for X86 32 bit.
 
 ### Misc
 
-[https://syscalls.w3challs.com](https://syscalls.w3challs.com)
 A list of available links for different archs.
+[https://syscalls.w3challs.com](https://syscalls.w3challs.com)
 
+From Chromium OS docs, this list contains also ARM and ARM 64.
 [https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md)
-From Chromium OS docs, contains also ARM and ARM 64.
