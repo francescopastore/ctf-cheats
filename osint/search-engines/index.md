@@ -3,12 +3,12 @@ id: search_engines
 title: Search engines
 ---
 
-## Search engines
+# Search engines
 
-Simulates using Google from another country without the need of a VPN.
+It simulates using Google from another country without the need of a VPN.
 [http://isearchfrom.com/](http://isearchfrom.com/)
 
-Creates a custom search engine for provided websites.
+Custom search engines for websites that you choose.
 [https://programmablesearchengine.google.com/about/](https://programmablesearchengine.google.com/about/)
 
 History of all public websites.

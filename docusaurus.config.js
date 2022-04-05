@@ -44,22 +44,21 @@ const config = {
         },
         items: [
           {
-            to: "/docs/intro",
-            label: "Docs",
+            to: "/binary-exploitation/intro",
+            label: "Binary exploitation",
             position: "left",
-            activeBaseRegex: `/docs/`,
-          },
-          {
-            to: "/resources/intro",
-            label: "Resources",
-            position: "left",
-            activeBaseRegex: `/resources/`,
+            activeBaseRegex: `/binary-exploitation/`,
           },
           {
             to: "/osint/intro",
             label: "OSINT",
             position: "left",
             activeBaseRegex: `/osint/`,
+          },
+          {
+            href: "https://medium.com/@francesco-pastore",
+            label: "Medium",
+            position: "right",
           },
           {
             href: "https://github.com/francescopastore/ctf-cheats",
@@ -82,9 +81,9 @@ const config = {
     [
       "@docusaurus/plugin-content-docs",
       {
-        id: "resources",
-        path: "resources",
-        routeBasePath: "resources",
+        id: "binary-exploitation",
+        path: "binary-exploitation",
+        routeBasePath: "binary-exploitation",
         sidebarPath: require.resolve("./sidebars.js"),
       }
     ],

@@ -1,13 +1,13 @@
 ---
 id: operators
-title: Search Operators
+title: Search operators
 ---
 
 # Search Operators
 
 ## Cheatsheets
 
-One page with the main operators.
+One page with the most common operators.
 [https://www.cfcs.org/sites/default/files/Google%20search%20tips.pdf](https://www.cfcs.org/sites/default/files/Google%20search%20tips.pdf)
 
 A lot of operators (more than 80), but something is missing.
