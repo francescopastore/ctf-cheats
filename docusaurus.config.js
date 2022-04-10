@@ -44,16 +44,10 @@ const config = {
         },
         items: [
           {
-            to: "/binary-exploitation/intro",
-            label: "Binary exploitation",
+            to: "/docs/intro",
+            label: "Docs",
             position: "left",
-            activeBaseRegex: `/binary-exploitation/`,
-          },
-          {
-            to: "/osint/intro",
-            label: "OSINT",
-            position: "left",
-            activeBaseRegex: `/osint/`,
+            activeBaseRegex: `/docs/`,
           },
           {
             href: "https://medium.com/@francesco-pastore",
@@ -77,26 +71,7 @@ const config = {
       },
     }),
 
-  plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "binary-exploitation",
-        path: "binary-exploitation",
-        routeBasePath: "binary-exploitation",
-        sidebarPath: require.resolve("./sidebars.js"),
-      }
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "osint",
-        path: "osint",
-        routeBasePath: "osint",
-        sidebarPath: require.resolve("./sidebars.js"),
-      }
-    ]
-  ],
+  plugins: [],
 };
 
 module.exports = config;

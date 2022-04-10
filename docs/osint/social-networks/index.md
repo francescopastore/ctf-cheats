@@ -5,6 +5,12 @@ title: Social networks
 
 # Social networks
 
+:::tip
+
+Official social networks sites detect the usage of a VPN and consequently blocking the navigation.
+
+:::
+
 Returns a list of all posts or pages where the provided string appears.
 [https://www.social-searcher.com](https://www.social-searcher.com)
 
@@ -31,7 +37,10 @@ Official Facebook search for public profile. The query string must be specified 
 Official Snapchat page to see public snaps.
 [https://map.snapchat.com](https://map.snapchat.com)
 
-## Bypass login
+## Bypass login and security
 
 It allows to extract the html content when login is required.
 [https://www.search.google.com/test/mobile-friendly](https://www.search.google.com/test/mobile-friendly)
+
+Firefox containers allow to isolate your tabs to avoid sharing of information among them.
+[https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)

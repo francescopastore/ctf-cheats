@@ -5,8 +5,6 @@ title: Search operators
 
 # Search Operators
 
-## Cheatsheets
-
 One page with the most common operators.
 [https://www.cfcs.org/sites/default/files/Google%20search%20tips.pdf](https://www.cfcs.org/sites/default/files/Google%20search%20tips.pdf)
 

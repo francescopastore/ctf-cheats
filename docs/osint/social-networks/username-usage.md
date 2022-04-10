@@ -1,11 +1,9 @@
 ---
-id: usernames
-title: Usernames
+id: username-usage
+title: Username usage
 ---
 
-# Usernames
-
-## Username usage
+# Username usage
 
 575 social networks divided in different categories.
 [https://knowem.com/checksocialnames.php](https://knowem.com/checksocialnames.php)
